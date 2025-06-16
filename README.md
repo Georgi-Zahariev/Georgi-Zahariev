@@ -1,8 +1,8 @@
 ## Welcome to my Github 👋
 
-- 🌱 I’m currently a fourth-year bachelor's student, majoring in Computer Science **(4.0 GPA)**
+- 🌱 I’m currently a bachelor's student, majoring in Computer Science **(4.0 GPA)**, class of 2026
 - 🔭 I’m currently working on data-driven projects, including, but not limited to web applications
-- 👯 I’m looking to collaborate on different projects 
+- 👯 I’m looking to collaborate on different projects
 - 📫 How to reach me: <u>https://www.linkedin.com/in/zahariev-georgi/</u>
 
 ### 💼 Open to Work
