@@ -27,7 +27,7 @@
 
 ### 📝 Upcoming Projects
 
-- 🧠 Starting a **technical blog** where I’ll share:
+- 🧠 Starting a **technical blog** - [My Blog](https://substack.com/@passiondev) - where I’ll share:
   - Weekly insights: coding, career progress, academics, athletics  
   - Reflections and project deep-dives
 
