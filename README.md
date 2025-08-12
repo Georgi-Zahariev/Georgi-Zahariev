@@ -9,22 +9,14 @@
 
 ### 💼 Open to Work
 
-- Seeking **internship** or **full-time opportunities** starting **June 2026** as a **Software Developer** or **Data Scientist**
+- Seeking **full-time opportunities** or **internship** starting **June 2026** or later as a **Software Developer** or **Data Scientist**
 
 ---
 
-### 🧠 Current Work
+### 📝 Recent Projects
 
-- 💼 **R&D Software Engineer Intern @ eDynamix**  
-  Working on in-house solutions, including **background removal**, **video noise cancellation** and production ready LLM prompts for **image validation**
-
----
-
-### 📝 Upcoming Projects
-
-- 🧠 Starting a **technical blog** - [My Blog](https://substack.com/@passiondev) - where I’ll share:
-  - Weekly insights: coding, career progress, academics, athletics  
-  - Reflections and project deep-dives
+- 🚀 Go check my **Portfolio Website** - it is live! [My Portfolio](https://georgi.zahariev.com)
+- 🧠 Started a **technical blog** - [My Blog](https://substack.com/@passiondev) - still getting traction.
 
 ---
 
