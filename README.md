@@ -23,6 +23,7 @@
 
 - 🌿 **Landscaping Business Website** — Modern web presence built for a small business in New York, focused on clean design and client outreach.
 
+---
 
 ### ⚡ Fun Facts
 
